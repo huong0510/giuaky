@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064596700126",
+    "project_id": "thigk-d2c24",
+    "storage_bucket": "thigk-d2c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064596700126:android:97a2825ccd5d7e693e3b4f",
+        "android_client_info": {
+          "package_name": "com.thigk.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpGkJiGYtwBcdxE6qUA-La-hkD8ajKUOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
